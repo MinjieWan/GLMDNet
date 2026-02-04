@@ -19,13 +19,13 @@ Infrared few-shot object detection (IFSOD) tackles the crucial problem of detect
 **2. Build GLMD-CA**
 * Clone Code
   ```angular2html
-  git clone https://github.com/MinjieWan/GLMD-CA.git
-  cd GLMD-CA
+  git clone https://github.com/MinjieWan/GLMDNet.git
+  cd GLMDNet
   ```
 
 * Create a virtual environment (optional)
   ```angular2html
-  conda create -n GLMD-CA python=3.7
+  conda create -n GLMDNet python=3.7
   ```
   
 * Install PyTorch 1.7.1 with CUDA 11.0
