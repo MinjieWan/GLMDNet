@@ -16,7 +16,7 @@ Infrared few-shot object detection (IFSOD) tackles the crucial problem of detect
 * CUDA 11.0
 * GCC >= 4.9
 
-**2. Build GLMD-CA**
+**2. Build GLMDNet**
 * Clone Code
   ```angular2html
   git clone https://github.com/MinjieWan/GLMDNet.git
