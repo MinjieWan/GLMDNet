@@ -1,5 +1,5 @@
 # GLMDNet
-This repo contains the official PyTorch implementation for our paper "GLMDNet: Infrared Few-Shot Object Detection Based on Global-Local Mutual Distillation Network"
+This repo contains the official PyTorch implementation for our paper "GLMDNet: Infrared Few-Shot Object Detection Based on Global-Local Mutual Distillation Network".
 
 <div align="center"><img src="assets/overview.jpg" width="840"></div>
 
